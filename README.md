@@ -286,7 +286,7 @@
     }
 
     .ficha table td:first-child {
-      color: #555555;
+      color: #171515;
       width: 40%;
       letter-spacing: 1px;
     }
