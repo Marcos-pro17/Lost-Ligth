@@ -267,6 +267,7 @@
       margin: 32px auto 0;
       padding: 24px 32px;
       text-align: left;
+      color: #171515;
     }
 
     .ficha table {
