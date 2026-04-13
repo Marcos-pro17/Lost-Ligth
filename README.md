@@ -251,7 +251,7 @@
       letter-spacing: 1px;
       padding: 3px 8px;
       border: 1px solid #333333;
-      color: #666666;
+      color: #171515;
       text-transform: uppercase;
     }
 
